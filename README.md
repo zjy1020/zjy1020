@@ -41,6 +41,17 @@
 - [world-preview-1.21.11-fabric-cn](https://github.com/zjy1020/world-preview-1.21.11-fabric-cn)：Minecraft 模组项目
 - [exam-review](https://github.com/zjy1020/exam-review)：刷题与复习工具
 
+## GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zjy1020&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
+  <img height="170" src="https://streak-stats.demolab.com?user=zjy1020&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zjy1020/zjy1020/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+</div>
+
 <div align="center">
   <sub>把想法做成能用的东西。</sub>
 </div>
