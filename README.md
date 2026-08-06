@@ -67,7 +67,7 @@ Open-source workflow  ███████████░░░░░░░  do
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zjy1020/zjy1020/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+  <img src="https://raw.githubusercontent.com/zjy1020/zjy1020/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation">
 </div>
 
 <div align="center">
